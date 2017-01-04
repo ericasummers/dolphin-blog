@@ -1,0 +1,13 @@
+.blogpost {
+  color: blue;
+  text-align: center;
+}
+
+.me {
+  color: teal;
+  /*margin: 75%;*/
+}
+
+h2 {
+  font-weight: bold;
+}
